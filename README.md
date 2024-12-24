@@ -22,10 +22,12 @@ http://localhost:8000/segment_video/
 ![alt text](https://github.com/Brinckley/CV_Course_project_MAI/blob/main/postman/segment_video.jpg)
 
 # Пример результатов для изображений
-Простое изобраежение человека:  
+Простое изображение человека:  
 ![alt text](https://github.com/Brinckley/CV_Course_project_MAI/blob/main/results/result2.jpg)  
 Несколько человек:  
 ![alt text](https://github.com/Brinckley/CV_Course_project_MAI/blob/main/results/result1.jpg)  
+  
+![alt text](https://github.com/Brinckley/CV_Course_project_MAI/blob/main/results/result4.jpg)  
 Фото с эффектами:  
 ![alt text](https://github.com/Brinckley/CV_Course_project_MAI/blob/main/results/result3.jpg)  
 
